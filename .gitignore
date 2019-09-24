@@ -1,0 +1,6 @@
+# binary
+aml-upgrade-package-extract
+
+# obj
+*.o
+
